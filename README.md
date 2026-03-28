@@ -76,7 +76,7 @@ Only these packages are required for this app (see `requirements.txt`):
 
 ## Contributing
 
-Contributions make open source great — all skill levels are welcome, whether it's fixing a typo, adding a new model, or building out a major feature.
+Contributions makes open source great — all skill levels are welcome, whether it's fixing a typo, adding a new model, or building out a major feature.
 
 ### How to Contribute
 
