@@ -100,7 +100,7 @@ Keep commits focused and write clear commit messages. If you're adding a new mod
 
 **4. Open a Pull Request**
 
-Push your branch and open a PR against `main`. Describe what you changed and why.
+Push your branch and open a PR against `main`. Describe your changes.
 
 ### Contributing Guidelines
 
