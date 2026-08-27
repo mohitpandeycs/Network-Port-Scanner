@@ -115,7 +115,6 @@ Built and maintained by **[Mohit Pandey :)](https://github.com/mohitpandeycs)**
 
 -  GitHub — [@mohitpandeycs](https://github.com/mohitpandeycs)
 -  LinkedIn — [in/mohitpandeycs](https://linkedin.com/in/mohitpandeycs)
--  Twitter / X — [@mohitpandeycs](https://x.com/mohitpandeycs)
 
 Found a bug? [Open an issue](https://github.com/mohitpandeycs/Network-Port-Scanner/issues).
 
